@@ -13,7 +13,9 @@ The dataset used in this project is publicly available.
 
 **Dataset sources:**
 Kaggle link: https://www.kaggle.com/datasets/ipateam/nuinsseg/ 
+
 GitHub repo: https://github.com/masih4/NuInsSeg 
+
 Zenodo archive: https://zenodo.org/records/10518968 
 
 
