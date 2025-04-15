@@ -24,8 +24,11 @@ Zenodo archive: https://zenodo.org/records/10518968
 **Results**:
 
 Total Parameters                 : 10,254,156
+
 Trainable Parameters             : 4,182,404
+
 Tunable Parameters in Percent    : 40.7874%
+
 
 10-epoch 5-Fold Average Scores
 ****************************************
