@@ -1,7 +1,9 @@
 # Parameter-Efficient-Fine-tuning-Foundation-Model-for-Nuclei-Instance-Segmentation
 
 
-This repository has been created as a part of the Medical Image Computing course (CAP 5516), conducted by Dr. Chen Chen to present the thirst assignment of the Spring 2025 semester.
+This repository has been created as a part of the Medical Image Computing course (CAP 5516); Assignment #3.
+Course Instructor: Dr. Chen Chen 
+Term: Spring 2025 
 
 The repository contains the following:
                1. Complete Executing (.ipynb file)
