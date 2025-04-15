@@ -27,7 +27,7 @@ Total Parameters                 : 10,254,156
 Trainable Parameters             : 4,182,404
 Tunable Parameters in Percent    : 40.7874%
 
-10-epoch 5-Fold Average Scores
+**10-epoch 5-Fold Average Scores**************
 =======================================
 Average Dice Score Result: 0.6744
 Average AJI Score Result: 0.4230
